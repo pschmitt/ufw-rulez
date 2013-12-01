@@ -12,4 +12,5 @@ My UFW rules
 
 ## Links
 
+* https://wiki.archlinux.org/index.php/Ufw#Adding_other_applications
 * https://wiki.ubuntu.com/UncomplicatedFirewall
