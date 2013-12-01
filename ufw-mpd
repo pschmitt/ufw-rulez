@@ -1,0 +1,4 @@
+[mpd]
+title=MPD
+description=Music Player Daemon
+ports=6600/tcp

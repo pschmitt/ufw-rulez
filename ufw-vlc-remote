@@ -1,0 +1,4 @@
+[vlc-remote]
+title=VideoLan Remote 
+description=Multimedia player
+ports=8080/tcp

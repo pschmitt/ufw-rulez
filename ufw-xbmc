@@ -1,0 +1,4 @@
+[xbmc]
+title=XBMC
+description=Open Source Home Theatre Software
+ports=9777/udp|8083/tcp

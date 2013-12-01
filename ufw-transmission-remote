@@ -1,0 +1,4 @@
+[transmission-remote]
+title=Transmission Remote
+description=BiTorrent client
+ports=9091/tcp
